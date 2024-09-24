@@ -2,7 +2,7 @@
 A brief introduction to mathematical proof writing techniques. You may find the following resources useful:
 
 
-* [YouTube Playist](https://studio.youtube.com/playlist/PL6N_Y7ao_aHuBRRcuGxMSwgAK7Qx-QPP3/)
+* [YouTube Playist](https://www.youtube.com/watch?v=8_Q2UyfUaCw&list=PL6N_Y7ao_aHuBRRcuGxMSwgAK7Qx-QPP3&pp=iAQB)
 
 
 * [QF Newsletter](https://quantumformalism.substack.com/)
